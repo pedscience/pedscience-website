@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftliche Mitarbeiterin
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ bio:
 
 # List each interest with a dash
 interests:
-- Chronische Schmerzen bei Kindern und Jugendlichen
-- Versorgungsforschung
+- Chronic Pain in Children and Adolescents
+- Health Service Research
 
 education:
   courses:
-  - course: Gesundheitswissenschaften (M. Sc.)
+  - course: Health Science (M. Sc.)
     institution: Universität Bielefeld
     year: 2016
   - course: Health Occupational Therapy (B. A.)
@@ -69,5 +69,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---
