@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PedScience Mitarbeiter gewinnen den DGP-Förderpreis für Palliativmedizin"
+title: "PedScience Reesearcher win DGP Award for Palliative Medicine"
 subtitle: ""
 summary: ""
 authors: [benedikt]
@@ -27,6 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Im Rahmen der virtuellen Mitgliedertage der Deutschen Gesellschaft für Palliativmedizin (DGP) hat DGP-Präsidentin Prof. Dr. Claudia Bausewein den diesjährigen Förderpreis der Fachgesellschaft gleichberechtigt an zwei Forschungsgruppen verliehen: „Die Arbeiten der beiden Teams haben die Jury – bei insgesamt hoher Qualität der Einreichungen – besonders in methodischer Hinsicht beeindruckt.“
-
-Die Arbeit des wissenschaftlichen Teams rund um die Erstautorin Sophie Pelke (geb. Ribbers) widmet sich der klinischen Forschung und es wird ein multidimensionales Outcome-Instrument für die Versorgung im pädiatrischen Bereich entwickelt und validiert. Die Arbeit fokussiert somit ein wichtiges Thema sowie eine wesentliche Patient:innengruppe. Das Forschungsdesign ist beachtlich, überzeugend und sehr transparent dargestellt.
+PedScience researchers won the DGP award for palliative medicine. Here could be your advertisement!
