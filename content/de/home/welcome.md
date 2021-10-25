@@ -28,3 +28,5 @@ Hier steht etwas fetziges über die **PedScience**. Idee, Gründung, Leitlinien.
 Hier könnte auch ein Link zu aktuellen Publikationen hin
 
 Und hier könnte auch noch etwas stehen.
+
+Das Hintergrundbild ist selbstverständlich wechselbar.
