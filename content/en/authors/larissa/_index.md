@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftliche Mitarbeiterin
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Schlaf von Kindern in der pädiatrischen Palliativversorgung
-- Digitalisierung in der pädiatrischen Palliativversorgung
+- Sleep of Children in Pediatric Palliative Care
+- Digitalization in Pediatric Palliative Care
 
 education:
   courses:
-  - course: Psychologie mit Schwerpunkt Beratung und Intervention (M. Sc.)
-    institution: Ruhr-Universität Bochum
+  - course: Psychology (MSc)
+    institution: Ruhr-University Bochum
     year: 2016
-  - course: Psychologie (B. Sc.)
-    institution: Ruhr-Universität Bochum
+  - course: Psychology (BSc)
+    institution: Ruhr-University Bochum
     year: 2014
 
 # Social/Academic Networking
@@ -66,5 +66,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---
