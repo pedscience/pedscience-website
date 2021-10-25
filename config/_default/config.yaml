@@ -11,7 +11,7 @@ copyright: '© {year} PedScience Vestische Forschungs-gGmbH' # Footer text, e.g.
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
