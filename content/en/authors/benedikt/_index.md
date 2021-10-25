@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftlicher Mitarbeiter
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: PedScience
-  url: "https://www.pedscience.de"
+  url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benedikt interessiert sich vor allem für Psychotherapie und Statistik.
+bio: Benedikt is particullary interested in psychotherapy and statistics research.
 
 # List each interest with a dash
 interests:
-- Psychologie 
-- Psychotherapie
-- Methoden-Forschung
-- Kinderschutz
+- Psychology 
+- Psychotherapy
+- Methods
+- Child maltreatment research
 
 education:
   courses:
   - course: Dr. rer. medic.
-    institution: Universität Duisburg-Essen
+    institution: University of Duisburg-Essen
     year: 2019
-  - course: M. Sc. in Klinischer Psychologie
-    institution: Ruhr-Universität Bochum
+  - course: Clinical Psychology (MSc)
+    institution: Ruhr-University Bochum
     year: 2017
-  - course: B. Sc. in Psychologie
-    institution: Ruhr-Universität Bochum
+  - course: Psychology (BSc)
+    institution: Ruhr-University Bochum
     year: 2015
 
 # Social/Academic Networking
@@ -71,5 +71,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---
