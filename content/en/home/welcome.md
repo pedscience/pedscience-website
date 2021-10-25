@@ -1,0 +1,31 @@
+---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 10  # Order that this section will appear.
+title: |
+  PedScience Research Institute
+hero_media:
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+  background:
+    image: group_white.jpg
+    image_parallax: true
+---
+
+<br>
+
+Here may be some very informative information regarding the **PedScience**. Idea, founding and research intentions wcould be listed here.
+
+Maybe the could be a link to recent publications.
+
+Here is place for something else.
+
+The background may be changed as well.

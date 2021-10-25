@@ -13,19 +13,19 @@ en:
   menu:
     main:
       - name: News
-        url: "#post"
+        url: "post"
         weight: 1
       - name: Team
-        url: "#people"
+        url: "people"
         weight: 2
       - name: Events
-        url: "#event"
+        url: "event"
         weight: 3
       - name: Publications
-        url: "#publication"
+        url: "publication"
         weight: 4
       - name: Contact
-        url: "#contact"
+        url: "contact"
         weight: 5
 
 # Uncomment the lines below to configure your website in a second language.
