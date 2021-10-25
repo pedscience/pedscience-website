@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  PedScience
-  Vestische Forschungs-gGmbH
+  PedScience Research Institute
 hero_media:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,10 +22,10 @@ design:
 
 <br>
 
-Hier steht etwas fetziges über die **PedScience**. Idee, Gründung, Leitlinien. Vielleicht wäre hier ein Foto von uns schön?
+Here may be some very informative information regarding the **PedScience**. Idea, founding and research intentions wcould be listed here.
 
-Hier könnte auch ein Link zu aktuellen Publikationen hin
+Maybe the could be a link to recent publications.
 
-Und hier könnte auch noch etwas stehen.
+Here is place for something else.
 
-Das Hintergrundbild ist selbstverständlich wechselbar.
+The background may be changed as well.
