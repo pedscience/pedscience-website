@@ -9,15 +9,22 @@ weight: 10  # Order that this section will appear.
 title: |
   PedScience
   Vestische Forschungs-gGmbH
-hero_media: group.jpg
+hero_media:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
   css_style:
   css_class:
+  background:
+    image: group_white.jpg
+    image_parallax: true
 ---
 
 <br>
 
 Hier steht etwas fetziges über die **PedScience**. Idee, Gründung, Leitlinien. Vielleicht wäre hier ein Foto von uns schön?
+
+Hier könnte auch ein Link zu aktuellen Publikationen hin
+
+Und hier könnte auch noch etwas stehen.
