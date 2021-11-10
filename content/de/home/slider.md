@@ -2,10 +2,17 @@
 widget: slider
 headless: true  # This file represents a page section.
 weight: 5
-height: 50vh
+interval: false
+height: 80vh
 
 item:
-    - title: Hello
+    - title: PedScience
       align: center
-      overlay_color: "#2356a3"
+      overlay_img: slider/slider_1_2.jpg
+    - content: Hier kann etwas stehen.
+      align: center
+      overlay_img: slider/slider_2_2.jpg
+    - content: Hier kann auch noch etwas stehen.
+      align: center
+      overlay_img: slider/slider_3_2.jpg
 ---
