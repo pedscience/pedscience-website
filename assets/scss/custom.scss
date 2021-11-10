@@ -19,3 +19,12 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.carousel-inner .wg-hero {
+    animation: none;
+    clear: none;
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
