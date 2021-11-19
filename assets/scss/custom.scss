@@ -37,3 +37,8 @@
 #image > div.home-section-bg.bg-image {
     background-position: top;
 }
+
+// Text width for article sites
+.article-container {
+    max-width: #{"max(60vw, 760px)"};
+}
