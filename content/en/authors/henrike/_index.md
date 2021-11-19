@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Gesundheitswissenschaftlerin
+role: Public Health Scientist
 
 # Organizations/Affiliations
 organizations: 
@@ -18,20 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Henrike interessiert sich vor allem für xx.
+bio: Henrike is primarily interested in xx.
 
 # List each interest with a dash
 interests:
-- Versorgungsforschung
-- Gesundheitsförderung
+- Care Research
+- Health Promotion
 
 education:
   courses:
   - course: Public Health (M. Sc.)
-    institution: Universität Bielefeld
+    institution: Bielefeld University
     year: 2020
-  - course: Health Communikation
-    institution: Universität Bielefeld
+  - course: Health Communication
+    institution: Bielefeld University
     year: 2018
 
 # Social/Academic Networking
