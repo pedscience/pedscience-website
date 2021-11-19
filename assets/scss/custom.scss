@@ -1,30 +1,39 @@
+// Center hero container vertically
+.wg-hero .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .hero-title {
     font-size: 9vmin;
     text-align: center;
     font-weight: bold;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .hero-lead {
-    /* max-width: 768px; */
     margin: auto;
     width: 80%;
     text-align: center;
     font-size: 2em;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    line-height: 1.125em;
 }
 
+// Parallax background for slider background
 .carousel-inner .wg-hero {
-    animation: none;
-    clear: none;
     background-attachment: fixed;
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+// Height of last picture before footer
+#image {
+    min-height: 40vh;
+}
+
+#image > div.home-section-bg.bg-image {
+    background-position: top;
 }
