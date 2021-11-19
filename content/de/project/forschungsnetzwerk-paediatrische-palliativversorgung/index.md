@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Forschungsnetzwerk Paediatrische Palliativversorgung"
-summary: ""
-authors: []
+title: "Entwicklung eines europäischen Forschungsnetzwerks für die pädiatrische Palliativversorgung"
+summary: "Im Rahmen dieses Projekts werden wir mithilfe einer Onlinebefragung die verfügbaren pädiatrischen Palliativangebote einzelner europäischer Länder erfassen, um einen Status quo der pädiatrischen Palliativversorgung in Europa abzubilden."
+authors: [mandira]
 tags: []
 categories: []
 date: 2021-11-19T14:25:32+01:00
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Finanzierung** Das Vorhaben wird aus Eigenmitteln finanziert
+
+Die Palliativversorgung von Kindern innerhalb Europas variiert stark zwischen einzelnen Ländern. Während Deutschland über mehrere stationäre Kinder- und Jugendhospize, multiprofessionelle Teams der spezialisierten ambulanten pädiatrischen Palliativversorgung und sogar über zwei pädiatrische Palliativstationen verfügt, fehlen pädiatrische Palliativangebote in anderen Ländern gänzlich. Die Forschung im Bereich pädiatrischer Palliativversorgung ist auf individuelle Länder begrenzt; eine international vernetzte Struktur existiert nicht.
+
+Im Rahmen dieses Projekts werden wir mithilfe einer Onlinebefragung die verfügbaren pädiatrischen Palliativangebote einzelner europäischer Länder erfassen, um einen Status quo der pädiatrischen Palliativversorgung in Europa abzubilden. Wir möchten zu einer optimalen Nutzung begrenzter Forschungs-Ressourcen beitragen, indem wir die Vernetzung internationaler Experten fördern. Ziel ist der Aufbau eines „Europäischen Forschungsnetzwerks Pädiatrische Palliativversorgung“. In einem ersten Schritt werden alle 46 europäischen Länder kontaktiert und zur Teilnahme eingeladen.
