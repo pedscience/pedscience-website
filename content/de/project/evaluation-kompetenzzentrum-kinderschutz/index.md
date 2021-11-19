@@ -3,10 +3,6 @@
 
 title: "Evaluation des Kompetenzzentrums Kinderschutz im Gesundheitswesen NRW"
 summary: "
-Laufzeit: 04/2019 – 03/2022
-
-Finanzierung: MAGS NRW (Ministerium für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen)
-
 Um die professionellen AkteurInnen im Gesundheitswesen zu unterstützen, weiterzubilden und ihnen Handlungsoptionen aufzuzeigen, wurde im Rahmen einer Ausschreibung des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalens (MAGS) das Kompetenzzentrum für Kinderschutz im Gesundheitswesen (KKG) ins Leben gerufen.
 "
 authors: [benedikt]
