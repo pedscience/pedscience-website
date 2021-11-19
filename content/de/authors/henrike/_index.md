@@ -30,7 +30,7 @@ education:
   - course: Public Health (M. Sc.)
     institution: Universität Bielefeld
     year: 2020
-  - course: Health Communikation
+  - course: Health Communication
     institution: Universität Bielefeld
     year: 2018
 
