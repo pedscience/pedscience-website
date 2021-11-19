@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: end-image.jpg
+    image: image-end.jpg
 # advanced:
 #   css_class: fullscreen
 ---
