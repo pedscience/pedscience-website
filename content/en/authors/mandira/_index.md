@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftliche Mitarbeiterin
+role: Palliative Physician
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Pädiatrische Palliativversorgung
+- Pediatric Palliative Care
 
 education:
   courses:
@@ -66,5 +66,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---

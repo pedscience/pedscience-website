@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftliche Mitarbeiterin
+role: Educational Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ bio:
 
 # List each interest with a dash
 interests:
-- Pädiatrische Palliativversorgung
+- Pediatric Palliative Care
 
 education:
   courses:
-  - course: Erziehungswissenschaften 
-    institution: Westfälischen Wilhelms-Universität Münster
+  - course: Educational Science 
+    institution: University of Münster
     year: 2009
 
 # Social/Academic Networking
@@ -62,5 +62,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Wissenschaftliche Mitarbeiterin
+role: Psychologist
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meltem arbeitet vor allem an...
+bio: Meltem is primarly interested in...
 
 # List each interest with a dash
 interests:
-- Chronische Schmerzen bei Kindern und Jugendlichen
-- Schmerzverarbeitung
+- Chronic Pain in Children and Adolescents
+- Pain Perception
 
 education:
   courses:
-  - course: Psychologie (M. Sc.)
-    institution: Westfälische Wilhelms-Universität Münster
+  - course: Psychology (MSc)
+    institution: University of Münster
     year: 2017
   - course: Psychologie (B. Sc.)
-    institution: Westfälische Wilhelms-Universität Münster
+    institution: University of Münster
     year: 2015
 
 # Social/Academic Networking
@@ -66,5 +66,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Wissenschaftliche Mitarbeiter
+- Research Fellows
 ---
