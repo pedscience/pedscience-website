@@ -2,7 +2,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 weight: 5
-interval: false # in ms
+interval: 3000 # in ms
 height: 84vh
 
 item:
