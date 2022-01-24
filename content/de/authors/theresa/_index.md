@@ -1,43 +1,38 @@
 ---
 # Display name
-title: "Benedikt Claus"
+title: "Theresa Sophie Busse"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "benedikt"
+- "theresa"
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Psychologe
+role: Berufsbezeichnung
 
 # Organizations/Affiliations
 organizations:
-- name: PedScience
-  url: "https://www.pedscience.de"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benedikt interessiert sich vor allem für Psychotherapie und Statistik.
+bio: 
 
 # List each interest with a dash
 interests:
-- Psychologie 
-- Psychotherapie
-- Methoden-Forschung
-- Kinderschutz
+- Interest 1
+- Interest 2
 
 education:
   courses:
-  - course: Dr. rer. medic.
-    institution: Universität Duisburg-Essen
-    year: 2019
-  - course: M. Sc. in Klinischer Psychologie
-    institution: Ruhr-Universität Bochum
-    year: 2017
-  - course: B. Sc. in Psychologie
-    institution: Ruhr-Universität Bochum
-    year: 2015
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -46,16 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:b.claus@pedscience.de
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0001-9501-0954
-- icon: github
-  icon_pack: fab
-  link: https://github.com/benediktclaus
-- icon: globe
-  icon_pack: fas
-  link: https://www.benediktclaus.com
+  link: "mailto:t.busse@pedscience.de"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
