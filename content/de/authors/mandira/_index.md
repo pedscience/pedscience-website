@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Mandira Reuther"
+draft: true
 
 # Username (this should match the folder name and the name on publications)
 authors:
