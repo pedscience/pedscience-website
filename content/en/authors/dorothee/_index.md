@@ -14,7 +14,7 @@ role: Educational Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: PedScience
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
