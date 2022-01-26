@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Berufsbezeichnung
+role: Health Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,26 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Theresa is particularly interested in the development and use of digital applications in palliative care and related ethical issues.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Digital Health
+- Palliativ Care
+- Participatory Design
+- Ethis in Healthcare
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Research, Development, and Management in Rehabilitation/Health (MA)
+    institution: Kiel University of Applied Sciences
+    year: 2019
+  - course: Nursing (dual)
+    institution: FH Münster
+    year: 2017
+  - course: Training as Nurse
+    institution: St. Franziskus Hospital Münster
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
