@@ -23,9 +23,9 @@ bio: Theresa is particularly interested in the development and use of digital ap
 # List each interest with a dash
 interests:
 - Digital Health
-- Palliativ Care
+- Palliative Care
 - Participatory Design
-- Ethis in Healthcare
+- Ethics in Healthcare
 
 education:
   courses:
