@@ -18,6 +18,9 @@ en:
       - name: Team
         url: "people"
         weight: 2
+      - name: Projects
+        url: "project"
+        weight: 3
       - name: Publications
         url: "publication"
         weight: 4
