@@ -14,17 +14,17 @@ role: Psychologist
 
 # Organizations/Affiliations
 organizations:
-- name: PedScience
+- name:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benedikt is particullary interested in psychotherapy and statistics research.
+bio: Benedikt is particullary interested in psychotherapy research and research methods.
 
 # List each interest with a dash
 interests:
 - Psychology 
 - Psychotherapy
-- Methods
+- Research Methods
 - Child maltreatment research
 
 education:

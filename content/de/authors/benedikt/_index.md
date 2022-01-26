@@ -14,11 +14,11 @@ role: Psychologe
 
 # Organizations/Affiliations
 organizations:
-- name: PedScience
-  url: "https://www.pedscience.de"
+- name:
+  url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benedikt interessiert sich vor allem für Psychotherapie und Statistik.
+bio: Benedikt interessiert sich vor allem für Psychotherapie- und Methoden-Forschung.
 
 # List each interest with a dash
 interests:
