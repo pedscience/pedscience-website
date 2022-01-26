@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "GeKo: Gelungene Kommunikation über Krankheit und Sterben in der pädiatrischen Palliativversorgung"
-summary: "Hier muss noch eine Kurzzusammenfassung hin"
+summary: "Im Rahmen des Projekts GeKo soll eine digitale Plattform für ein Kommunikationstraining von medizinischem und pflegerischem Personal geschaffen werden. Im Fokus der Trainingsangebote steht die Verbesserung der Kommunikation mit nicht-onkologischen Patient:innen und ihren Zugehörigen in der pädiatrischen Palliativversorgung."
 authors: [theresa]
 tags: []
 categories: []
