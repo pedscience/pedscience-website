@@ -5,38 +5,38 @@
 
 # Appearance
 
-theme: minimal
+theme: pedscience
 day_night: false
-font: native
-font_size: L
+font: pedscience
+font_size: M
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
+org_name: 'PedScience Vestische Forschungs-gGmbH'
+description: Die PedScience ist eine gemeinnützige, außeruniversitäre Forschungsorganisation, die vor allem im pädiatrischen Bereich tätig ist.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: b.claus@pedscience.de
+phone: +49 2363 975 2012
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Herdieckstr. 5 b
+  city: Datteln
+  region: 
+  postcode: '45711'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '51.642279947865966'
+  longitude: '7.336994169102089'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
@@ -49,16 +49,16 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+time_format: '15:04'
+address_format: de
 
 # Site features
 
@@ -115,7 +115,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 10
 marketing:
   google_analytics: ''
   google_tag_manager: ''
