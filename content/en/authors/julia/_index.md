@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Julia is primarily interested in chronic pain research for children and adolescents
 
 # List each interest with a dash
 interests:
