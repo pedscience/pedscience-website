@@ -14,25 +14,30 @@ role: Wissenschaftliche Leitung
 
 # Organizations/Affiliations
 organizations:
-- name: PedScience
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Julia interessiert sich vor allem für die Entwicklung diagnostischer Instrumente und der Interventionsforschung für Kinder mit chronischen Schmerzen.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Chronischer Schmerz bei Kindern
+- Versorgungsforschung
+- Entwicklung von Diagnostikinstrumenten
+- Interventionsforschung
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Approbation zur Kinder- und Jugendlichenpsychotherapeutin (VT)
+    institution:
+    year: 2017
+  - course: Dr. rer. nat.
+    institution: Universität Osnabrück
+    year: 2013
+  - course: Diplom in Psychologie
+    institution: Universität Trier
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,16 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
+  link: 'mailto:j.wager@pedscience.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.researchgate.net/profile/Julia-Wager-2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
