@@ -18,6 +18,7 @@ content:
   user_groups:
   - Directors
   - Research Fellows
+  - Former Research Fellows
 
 design:
   show_interests: false
