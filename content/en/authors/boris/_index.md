@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Boris Zernikow"
+title: "Prof. Dr. Boris Zernikow"
 
 # Username (this should match the folder name and the name on publications)
 authors:
