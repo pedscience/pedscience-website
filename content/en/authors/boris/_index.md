@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Prof. Dr. Boris Zernikow"
+weight: 10
 
 # Username (this should match the folder name and the name on publications)
 authors:
