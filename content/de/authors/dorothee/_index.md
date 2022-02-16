@@ -23,6 +23,8 @@ bio:
 # List each interest with a dash
 interests:
 - Pädiatrische Palliativversorgung
+- Chronische Schmerzen bei Kindern und Jugendlichen
+- Versorgungsforschung
 
 education:
   courses:
