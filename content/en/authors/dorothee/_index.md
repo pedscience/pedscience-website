@@ -23,6 +23,8 @@ bio:
 # List each interest with a dash
 interests:
 - Pediatric Palliative Care
+- Chronic Pain in Children and Adolescents
+- Health Service Research
 
 education:
   courses:

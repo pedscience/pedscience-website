@@ -3,7 +3,7 @@
 
 title: "Elektronisches sektorenübergreifendes Aktensystem für die pädiatrische Palliativversorgung"
 summary: "Entwicklung eines sektorenübergreifenden Aktensystems zur Dokumentation von Patientendaten"
-authors: [larissa, theresa]
+authors: [larissa, theresa, dorothee]
 tags: []
 categories: [ELSA-PP]
 date: 2021-10-21T13:16:34+02:00
