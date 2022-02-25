@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "RiSe: Risikofaktor zentrale Sensibilisierung"
-summary: "Hier muss noch eine Kurzzusammenfassung hin."
+summary: "Das RiSe-Projekt widmet sich der „zentralen Sensibilisierung“, einer Veränderung der Schmerzverarbeitung im zentralen Nervensystem, die eine wichtige Rolle bei der Schmerzchronifizierung spielen kann. Zentrale Sensibilisierung bedeutet, eine verstärkte Wahrnehmung schmerzhafter Signale sowie eine Wahrnehmung nicht-schmerzhafter Reize als Schmerz."
 authors: [meltem]
 tags: []
 categories: []
@@ -40,14 +40,14 @@ url_video: ""
 slides: ""
 ---
 
-**Laufzeit** 01/2020 – 12/2021
+**Laufzeit** 01/2020 – 07/2022
 
 **Finanzierung** Heinz und Anneliese Medaljon-Stiftung
 
-Chronische Schmerzen bei Kindern und Jugendlichen sind ein bio-psycho-soziales Phänomen. In dem RiSe-Projekt möchten wir den Fokus vor allem auf eine biologische Komponente legen – die zentrale Sensibilisierung.  Einige pharmakologische Studien bei erwachsenen Schmerzpatienten legen nahe, dass die Heilungschancen bei Schmerzpatienten, bei denen eine zentrale Sensibilisierung vorliegt, sehr viel schlechter sind. Ob dies auch bei  Kindern und Jugendlichen gilt, ist bislang unklar. Da sie aufgrund ihres jüngeren Alters ein deutlich flexibleres Gehirn haben, ist es denkbar, dass eine möglicherweise eingetretene Veränderung der Schmerzverarbeitung im Gehirn durch eine gezielte Behandlung wieder rückgängig gemacht werden kann. Die zentrale Sensibilisierung kann mit der sogenannten „Quantitativen Sensorischen Testung“ kurz „QST“ erfasst werden. QST ist ein psychophysiologisches Testverfahren zur erweiterten klinisch-neurologischen Sensibilitätsuntersuchung bei Patienten mit chronischen Schmerzen, um so auffällige Veränderungen in der Reiz- und Schmerzverarbeitung zu detektieren.  
+Chronischer Schmerz bei Kindern und Jugendlichen ist ein schwerwiegendes Gesundheitsproblem, welches in den letzten Jahrzehnten deutlich zunimmt. Um die Behandlungsoptionen für betroffene Kinder und Jugendliche zu verbessern, ist zunächst ein besseres Verständnis verschiedener bio-psycho-sozialer Prozesse notwendig. 
 
+Das RiSe-Projekt widmet sich der „zentralen Sensibilisierung“, einer Veränderung der Schmerzverarbeitung im zentralen Nervensystem, die eine wichtige Rolle bei der Schmerzchronifizierung spielen kann. Zentrale Sensibilisierung bedeutet, eine verstärkte Wahrnehmung schmerzhafter Signale sowie eine Wahrnehmung nicht-schmerzhafter Reize als Schmerz. Psychosozial sind bei vielen Patienten eine Veränderung der Stimmung sowie sozialer Rückzug zu beobachten. 
 
-Im Rahmen der RiSe-Studie werden folgende Fragestellungen untersucht:
+Zentrale Sensibilisierung kann mit der sogenannten „Quantitativen Sensorischen Testung“ kurz „QST“ erfasst werden. QST ist ein psychophysiologisches Testverfahren zur erweiterten klinisch-neurologischen Sensibilitätsuntersuchung bei Patient:innen mit chronischen Schmerzen, um so auffällige Veränderungen in der Reiz- und Schmerzverarbeitung zu detektieren.
 
-1. Stellen Veränderungen in der Schmerzverarbeitung (erfasst über QST) einen Risikofaktor für einen negativen Behandlungsverlauf 3 und 6 Monate nach der stationären Schmerztherapie dar?
-2. Kann eine pathologische Schmerzverarbeitung (erfasst über QST) durch die stationäre Behandlung am Deutschen Kinderschmerzzentrum verändert werden?
+Ziel der Studie ist es herauszufinden, ob eine zentrale Sensibilisierung bei Therapiebeginn einen Risikofaktor für einen negativen Behandlungsverlauf 3 und 6 Monate nach der Schmerztherapie darstellt. Zudem wird überprüft, ob eine pathologische Schmerzverarbeitung durch eine Schmerztherapie verändert werden kann.
