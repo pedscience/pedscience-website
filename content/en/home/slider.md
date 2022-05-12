@@ -2,17 +2,25 @@
 widget: slider
 headless: true  # This file represents a page section.
 weight: 5
-interval: 6000 # in ms
-height: 84vh
+active: true
 
-item:
+design:
+  slide_height: "84vh"
+  loop: true
+  interval: 6000 # in ms
+
+content:
+  slides:
     - title: PedScience
       align: center
-      overlay_img: slider/slider-1.jpg
-    - title: We are a non-profit research institute
+      background: 
+        media: slider/slider-1.jpg
+    - title: We are a non-profit research Organization
       align: center
-      overlay_img: slider/slider-2.jpg
-    - title: Our goal is the improvement of treatments for children and adolescents
+      background: 
+        media: slider/slider-2.jpg
+    - title: Our goal is to improve treatment for children and adolescents
       align: center
-      overlay_img: slider/slider-3.jpg
+      background:
+        media: slider/slider-3.jpg
 ---

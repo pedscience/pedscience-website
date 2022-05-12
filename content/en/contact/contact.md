@@ -13,17 +13,40 @@ title: Contact
 subtitle:
 
 content:
+  # Contact (edit or remove options as required)
+
+  email: 
+  phone: 
+  address:
+    street: Herdieckstr. 5b
+    city: Datteln
+    region: 
+    postcode: '59192'
+    country: Germany
+    country_code: DE
+  coordinates:
+    latitude: '51.642279947865966'
+    longitude: '7.336994169102089'
+  directions: 
+  office_hours:
+  appointment_url:
+  #contact_links:
+  #  - icon: comments
+  #    icon_pack: fas
+  #    name: Discuss on Forum
+  #    link: 'https://discourse.gohugo.io'
+
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
-  # form:
-  #   provider: netlify
-  #   formspree:
-  #     id:
-  #   netlify:
-  #     # Enable CAPTCHA challenge to reduce spam?
-  #     captcha: false
+  form:
+    provider:
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 
 design:
   columns: '1'

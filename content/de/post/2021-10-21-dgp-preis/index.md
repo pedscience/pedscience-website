@@ -10,7 +10,7 @@ categories: [Palliative Care]
 date: 2021-09-25T12:58:24+02:00
 lastmod: 2021-10-21T12:58:24+02:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
