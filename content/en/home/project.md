@@ -10,6 +10,8 @@ subtitle:
 content:
   count: 5
   filters:
+    folders:
+    - project
     author: ""
     category: ""
     exclude_featured: false
