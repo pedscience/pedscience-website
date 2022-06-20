@@ -15,11 +15,11 @@ content:
       align: center
       background: 
         media: slider/slider-1.jpg
-    - title: Wir sind eine gemeinnützige Forschungseinrichtung
+    - title: PedScience
       align: center
       background: 
         media: slider/slider-2.jpg
-    - title: Unser Ziel ist eine zielgerichtete Forschung zur Verbesserung der Behandlung von Kindern und Jugendlichen
+    - title: PedScience
       align: center
       background:
         media: slider/slider-3.jpg
