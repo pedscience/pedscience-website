@@ -15,11 +15,11 @@ content:
       align: center
       background: 
         media: slider/slider-1.jpg
-    - title: We are a non-profit research Organization
+    - title: PedScience
       align: center
       background: 
         media: slider/slider-2.jpg
-    - title: Our goal is to improve treatment for children and adolescents
+    - title: PedScience
       align: center
       background:
         media: slider/slider-3.jpg
