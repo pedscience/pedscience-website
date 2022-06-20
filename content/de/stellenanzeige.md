@@ -1,6 +1,6 @@
 ---
-title: Stellenanzeige
-summary: Here we describe how to add a page to your site.
+title: Stellenanzeige Wissenschaftliche Mitarbeiterin / einen Wissenschaftlichen Mitarbeiter
+summary: Stellenanzeige PedScience
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -16,8 +16,8 @@ header:
 
 Die PedScience Vestische Forschungs-gGmbH
 an der Vestischen Kinder- und Jugendklinik Datteln
-sucht ab sofort
-eine Wissenschaftliche Mitarbeiterin / einen Wissenschaftlichen Mitarbeiter (m/w/d) (Stellenumfang 75% -100%)
+sucht **ab sofort**
+eine **Wissenschaftliche Mitarbeiterin / einen Wissenschaftlichen Mitarbeiter (m/w/d) (Stellenumfang 75% -100%)**
 
 Die **PedScience** als Tochtergesellschaft der Vestischen Caritas Kliniken GmbH ist ein **junges, dynamisches außeruniversitäres Forschungsinstitut**. Zu den Aufgaben der PedScience zählt die Durchführung von Forschungs-, Entwicklungs- und Weiterbildungsprojekten im Bereich der Pädiatrie und hier insbesondere der **pädiatrischen Schmerz- und Palliativversorgung**. Die PedScience arbeitet dabei eng mit klinischen Akteuren zusammen, v.a. mit dem Deutschen Kinderschmerzzentrum und dem Kinderpalliativzentrum an der Vestischen Kinder und Jugendklinik Datteln – Universität Witten/Herdecke. Die Ergebnisse der interdisziplinären Forschungsprojekte sollen dazu beitragen, pädiatrische Präventionsansätze, Versorgung und Nachsorge nachhaltig zu verbessern. www.pedscience.de/
 
