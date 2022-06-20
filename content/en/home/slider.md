@@ -7,7 +7,7 @@ active: true
 design:
   slide_height: "84vh"
   loop: true
-  interval: 6000 # in ms
+  interval: 5000 # in ms
 
 content:
   slides:
