@@ -21,7 +21,7 @@ content:
     street: Herdieckstr. 5b
     city: Datteln
     region: 
-    postcode: '59192'
+    postcode: '45711'
     country: Germany
     country_code: DE
   coordinates:
