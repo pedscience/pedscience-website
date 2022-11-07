@@ -1,8 +1,8 @@
 # Font style metadata
-name = "Minimal"
+name = "pedscience"
 
 # Optional Google font URL
-google_fonts = "family=Lato&family=Roboto"
+google_fonts = ""
 
 # Font families
 heading_font = "Lato"
