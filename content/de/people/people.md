@@ -18,7 +18,6 @@ content:
   user_groups:
   - Leitung
   - Wissenschaftliche Mitarbeiter
-  - Ehemalige wissenschaftliche Mitarbeiter
 
 design:
   show_interests: false
