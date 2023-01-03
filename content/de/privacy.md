@@ -134,12 +134,11 @@ und technische Wartungsleistungen in Anspruch nehmen.
 # 3. Datenschutzbeauftragter
 Gesetzlich vorgeschriebener Datenschutzbeauftragter
 
-Für den Geschäftsbereich Erwachsene wurde als Datenschutzbeauftragter bestellt:
-Vestische Caritas-Kliniken GmbH
-Martin Hoffmann
-Rottstraße 11
-45711 Datteln
-E-Mail: datenschutz@vck-gmbh.de
+Als betrieblicher Datenschutzbeauftragter ist benannt:
+Dirk Templin
+Mauritiusplatz 6
+59394 Nordkirchen
+E-Mail: d.templin@vck-gmbh.de
 
 # 4. Datenerfassung auf unserer Website
 ## Cookies
@@ -178,8 +177,9 @@ Dies sind:
 - Uhrzeit der Serveranfrage
 - IP-Adresse
 
-Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
-Grundlage für die Datenverarbeitung ist §6 Abs. 1 Buchstabe g) des Gesetzes über den kirchlichen Datenschutz (KDG).
+Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht
+vorgenommen. Grundlage für die Datenverarbeitung ist §6 Abs. 1 Buchstabe g) des
+Gesetzes über den kirchlichen Datenschutz (KDG).
 
 # Erhebung von Zugriffsdaten und Logfiles
 Wir selbst (bzw. unser Webhostinganbieter) erheben Daten zu jedem Zugriff auf
@@ -203,67 +203,6 @@ Vertragsverhältnisse mit Netlify der Standardvertragsklauseln der EU-Kommission
 gemäß Art. 46 Abs. 2 lit. c) DSGVO. Diese sind unter [bei
 Netlify](https://www.netlify.com/legal/netlify-dpa.pdf) abrufbar.
 
-
-## Einsatz von Cookies
-Cookies sind Textdateien, die Daten von besuchten Websites oder Domains
-enthalten und von einem Browser auf dem Computer des Benutzers gespeichert
-werden. Ein Cookie dient in erster Linie dazu, die Informationen über einen
-Benutzer während oder nach seinem Besuch innerhalb eines Onlineangebotes zu
-speichern. Zu den gespeicherten Angaben können z.B. die Spracheinstellungen auf
-einer Webseite, der Loginstatus, ein Warenkorb oder die Stelle, an der ein Video
-geschaut wurde, gehören. Zu dem Begriff der Cookies zählen wir ferner andere
-Technologien, die die gleichen Funktionen wie Cookies erfüllen (z.B., wenn
-Angaben der Nutzer anhand pseudonymer Onlinekennzeichnungen gespeichert werden,
-auch als „Nutzer-IDs“ bezeichnet).
-
-## Kontaktaufnahme
-Bei der Kontaktaufnahme mit uns (z.B. per E-Mail oder Telefon) werden die
-Angaben der anfragenden Personen verarbeitet, soweit dies zur Beantwortung der
-Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist. Die
-Beantwortung der Kontaktanfragen im Rahmen von vertraglichen oder
-vorvertraglichen Beziehungen erfolgt zur Erfüllung unserer vertraglichen
-Pflichten oder zur Beantwortung von (vor)vertraglichen Anfragen und im Übrigen
-auf Grundlage der berechtigten Interessen an der Beantwortung der Anfragen.
-Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten
-(z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Texteingaben, Fotografien,
-Videos).
-
-Betroffene Personen: Kommunikationspartner. Zwecke der Verarbeitung:
-Kontaktanfragen und Kommunikation. Rechtsgrundlagen: Vertragserfüllung und
-vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte
-Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
-
-Die Datenlöschung erfolgt unter Beachtung der gesetzlichen Aufbewahrungsfristen,
-bezogen auf Geschäftsbriefe nach sechs Jahren, bezogen auf Rechnungsstellungen
-nach zehn Jahren.
-
-Als betrieblicher Datenschutzbeauftragter ist benannt:
-Dirk Templin
-Mauritiusplatz 6
-59394 Nordkirchen
-E-Mail: d.templin@vck-gmbh.de
-
-## Betroffenenrechte
-Nach der EU-Datenschutzgrundverordnung (DSGVO) stehen Ihnen folgende Rechte zu:
-Werden Ihre personenbezogenen Daten verarbeitet, so haben Sie das Recht,
-Auskunft über die zu Ihrer Person gespeicherten Daten zu erhalten (Artikel 15
-DSGVO). Sollten unrichtige personenbezogene Daten verarbeitet werden, steht
-Ihnen ein Recht auf Berichtigung zu (Artikel 16 DSGVO). Wenn die gesetzlichen
-Voraussetzungen dafür vorliegen, können Sie die Löschung oder Einschränkung der
-Verarbeitung verlangen sowie Widerspruch gegen die Verarbeitung einlegen
-(Artikel 17, 18, 21 DSGVO). Zur Ausübung Ihrer Rechte wenden Sie sich bitte an
-die verantwortliche Stelle oder den Datenschutzbeauftragten.
-
-Sie haben darüber hinaus das Recht auf Beschwerde bei der Datenschutzaufsicht,
-wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden
-personenbezogenen Daten gegen Vorschriften der EU-Datenschutz-Grundverordnung
-(DSGVO) oder gegen andere Datenschutzvorschriften verstößt:
-
-Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen  
-Postfach 20 04 44  
-40102 Düsseldorf  
-Tel.: 0211/38424-0  
-E-Mail: poststelle@ldi.nrw.de  
 
 ## Widerspruch gegen Werbe-Mails
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten
