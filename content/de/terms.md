@@ -13,7 +13,7 @@ Verantwortlicher: Benedikt Claus
 Herdieckstr. 5 b  
 45711 Datteln  
 E-Mail: [info@pedscience.de](mailto:info@pedscience.de)  
-Tel.: 02363 975 2012
+Tel.: 02363 975 2020
 
 Handelsregister: HRB 8146  
 Amtsgericht Recklinghausen
@@ -21,8 +21,8 @@ Amtsgericht Recklinghausen
 Finanzamt Recklinghausen 340/5941/1067
 
 Geschäftsführung:  
-Herr Andreas Wachtel  
-Herr Thomas Pliquett
+Dr. Martin Meyer und 
+Thomas Pliquett
 
 ## Haftungsausschluss
 
