@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Larissa Dreier"
+title: "Larissa Kubek"
 
 # Username (this should match the folder name and the name on publications)
 authors:
