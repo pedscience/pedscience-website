@@ -3,7 +3,7 @@
 
 title: "RiSe: Risikofaktor zentrale Sensibilisierung"
 summary: "Das RiSe-Projekt widmet sich der „zentralen Sensibilisierung“, einer Veränderung der Schmerzverarbeitung im zentralen Nervensystem, die eine wichtige Rolle bei der Schmerzchronifizierung spielen kann. Zentrale Sensibilisierung bedeutet, eine verstärkte Wahrnehmung schmerzhafter Signale sowie eine Wahrnehmung nicht-schmerzhafter Reize als Schmerz."
-authors: [meltem]
+authors: []
 tags: []
 categories: []
 date: 2022-01-25T11:01:16+01:00
