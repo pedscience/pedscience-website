@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Henrike interessiert sich vor allem für xx.
+bio: Henrike interessiert sich vor allem für die Entwicklung und Evaluation von (digitalen) Interventionen für Kinder und Jugendliche.
 
 # List each interest with a dash
 interests:
