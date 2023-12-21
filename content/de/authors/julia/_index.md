@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Dr. Julia Wager"
+title: "PD Dr. Julia Wager"
 weight: 20
 
 # Username (this should match the folder name and the name on publications)

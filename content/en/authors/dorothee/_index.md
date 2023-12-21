@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Dorothee Meyer"
+title: "Dr. Dorothee Meyer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
