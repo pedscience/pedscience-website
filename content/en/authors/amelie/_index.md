@@ -28,7 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PSychology (BSc)
+  - course: Psychology (MSc)
+    institution: University of Cologne
+    year: 2023
+  - course: Psychology (BSc)
     institution: Ruhr-University Bochum
     year: 2020
 

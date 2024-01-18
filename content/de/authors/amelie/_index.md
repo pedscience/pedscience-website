@@ -28,9 +28,14 @@ interests:
 
 education:
   courses:
+  - course: Psychologie mit forschungsorientiertem Schwerpunkt (M. Sc.)
+    institution: Universität zu Köln
+    year: 2023
   - course: Psychologie mit Schwerpunkt Beratung und Intervention (B. Sc.)
     institution: Ruhr-Universität Bochum
     year: 2020
+  
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
