@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-**Laufzeit** 2021 – 2024
+**Laufzeit** 2021 – 2025
 
 **Förderung** Das Projekt wird vom Innovationsausschuss beim Gemeinsamen Bundesausschuss (GBA) gefördert.
 
