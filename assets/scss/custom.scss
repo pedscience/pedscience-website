@@ -13,8 +13,14 @@
     src: local('Lato'), url('/fonts/lato.ttf');
   }
 
-// Center hero container vertically
-.wg-hero .container {
+// // Center hero container vertically
+// .wg-hero .container {
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     transform: translate(-50%, -50%);
+// }
+.h1.hero-title {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -25,6 +31,8 @@
     font-size: 9vmin;
     text-align: center;
     font-weight: bold;
+    color: white;
+    min-height: 60vh;
 }
 
 .hero-lead {
@@ -35,23 +43,23 @@
     line-height: 1.125em;
 }
 
-// Parallax background for slider background
-.carousel-inner .wg-hero {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+// // Parallax background for slider background
+// .carousel-inner .wg-hero {
+//     background-attachment: fixed;
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-size: cover;
+// }
 
 
-// Height of last picture before footer
-#image {
-    min-height: 40vh;
-}
+// // Height of last picture before footer
+// #image {
+//     min-height: 40vh;
+// }
 
-#image > div.home-section-bg.bg-image {
-    background-position: top;
-}
+// #image > div.home-section-bg.bg-image {
+//     background-position: top;
+// }
 
 // Text width for article sites
 .article-container {

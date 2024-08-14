@@ -1,14 +1,14 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: pedscience
-  theme_night: 
-  font: pedscience
+  theme_day: minimal
+  theme_night:
+  font: native
   font_size: L
 
 # SEO
@@ -17,14 +17,17 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'PedScience Vestische Forschungs-gGmbH'
+    org_name: 'PedScience Vestische Forchungs-gGmbH'
     description: 'Die PedScience ist eine gemeinnützige, außeruniversitäre Forschungsorganisation, die vor allem im pädiatrischen Bereich tätig ist.'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+    # twitter: 'GetResearchDev'
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  #   google_tag_manager: ''
+  #   microsoft_clarity: ''
+  # verification:
+  #   google: ''
+  #   baidu: ''
 
 # Site header
 
@@ -44,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} PedScience Vestische Forschungs-gGmbH'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -82,6 +85,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -97,7 +105,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:
