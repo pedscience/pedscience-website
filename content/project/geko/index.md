@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Laufzeit** 01/2022 - 12/2023
+**Laufzeit** 01/2022 - 12/2024
 
 **Finanzierung** Das Vorhaben wir gefördert von Dr. Ausbüttel & Co. GmbH
 
