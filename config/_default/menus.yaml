@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Stellenanzeige
-    url: stellenanzeige.pdf
-    weight: 10
+  # - name: Stellenanzeige
+  #  url: stellenanzeige.pdf
+  #  weight: 10
   # - name: Neuigkeiten
   #   url: post
   #   weight: 20
