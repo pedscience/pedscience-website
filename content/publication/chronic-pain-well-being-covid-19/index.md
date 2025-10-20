@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Chronic Pain in Schoolchildren and its Association With Psychological Wellbeing Before and During the COVID-19 Pandemic"
-authors: [Lisa-Marie Rau, Susanne Grothus, Ariane Sommer, Kamila Grochowska, benedikt, boris, julia]
+authors: [Lisa-Marie Rau, Susanne Grothus, Ariane Sommer, Kamila Grochowska, Benedikt Claus, boris, julia]
 date: 2021-09-11T15:09:50+02:00
 doi: "10.1016/j.jadohealth.2021.07.027"
 

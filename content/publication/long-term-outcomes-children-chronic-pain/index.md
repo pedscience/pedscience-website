@@ -7,7 +7,7 @@ authors:
 - Ann-Kristin Ruhe
 - Lorin Stahlschmidt
 - Kathrin Leitsch
-- benedikt
+- Benedikt Claus
 - Winfried Häuser
 - Elmar Brähler
 - Andreas Dinkel

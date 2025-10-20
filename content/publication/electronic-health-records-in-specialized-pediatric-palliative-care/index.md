@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Electronic Health Records in Specialized Pediatric Palliative Care: A Qualitative Needs Assessment among Professionals Experienced and Inexperienced in Electronic Documentation"
-authors: [dorothee, Sven Kernebeck, theresa, Jan Ehlers, julia, boris, larissa]
+authors: [Dorothee Meyer, Sven Kernebeck, Theresa Sophie Busse, Jan Ehlers, julia, boris, larissa]
 date: 2021-03-23T10:07:10+01:00
 doi: ""
 

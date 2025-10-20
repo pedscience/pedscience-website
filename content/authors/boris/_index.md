@@ -40,7 +40,7 @@ education:
     institution: Westfälische Wilhelms-Universität Münster
     year: 1994
   - course: Humanmedizin
-    institution: Westfälische Wilhelmsuniversität Münster
+    institution: Westfälische Wilhelms-Universität Münster
     year: 1993
 
 # Social/Academic Networking

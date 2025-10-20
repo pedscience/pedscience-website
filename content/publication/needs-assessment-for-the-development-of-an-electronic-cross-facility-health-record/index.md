@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Needs Assessment for the Development of an Electronic Cross-Facility Health Record (ECHR) for Pediatric Palliative Care: A Design Thinking Approach"
-authors: [theresa, Chantal Jux, Sven Kernebeck, larissa, dorothee, Daniel Zenz, boris, Jan Peter Ehlers]
+authors: [Theresa Sophie Busse, Chantal Jux, Sven Kernebeck, larissa, Dorothee Meyer, Daniel Zenz, boris, Jan Peter Ehlers]
 date: 2021-07-16T10:14:48+01:00
 doi: "https://doi.org/10.3390/children8070602"
 

@@ -3,7 +3,7 @@
 
 title: "KoCoN-Projekt"
 summary: "KoCoN-Projekt (IT-gestützte, sektorenübergreifende Patientenpfade für die Versorgung von Kindern mit Komplex-Chronischen Neurologischen Erkrankungen)"
-authors: [henrike]
+authors: [annika]
 tags: []
 categories: []
 date: 2023-08-10T08:16:28+02:00
@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 #### Laufzeit
-01.12.2022 – 30.11.2025
+01.12.2022 – 30.07.2026
 
 
 #### Beschreibung
@@ -60,13 +60,13 @@ Innovationsausschuss
 
 
 #### Projektverantwortung für PedScience Vestische Forschungs-gGmbH
-Dr. Julia Wager  
+PD Dr. Julia Wager  
 E-Mail: j.wager@pedscience.de
 
 #### Ansprechpartner:innen
-Henrike Brunsmann  
-E-Mail: h.brunsmann@pedscience.de  
-Telefon: 02363 – 975 2020
+Annika Lisakowski
+E-Mail: a.lisakowski@pedscience.de
+Telefon: 02363 – 975 2014
 
 
 #### Links

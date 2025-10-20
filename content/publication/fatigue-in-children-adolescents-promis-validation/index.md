@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Assessing fatigue in children and adolescents: Psychometric validation of the German version of the PROMIS® Pediatric Short Form v2.0 - Fatigue 10a in school children and pediatric chronic pain patients"
-authors: [Ariane Sommer, Susanne Grothus, Kamila Grochowska, benedikt, Lorin Stahlschmidt, julia]
+authors: [Ariane Sommer, Susanne Grothus, Kamila Grochowska, Benedikt Claus, Lorin Stahlschmidt, julia]
 date: 2021-11-15T09:29:17+01:00
 doi: "https://doi.org/10.1007/s11136-021-03032-8"
 

@@ -4,8 +4,8 @@
 title: "Unified Multifactorial Model of Parental Factors in Community-Based Pediatric Chronic Pain"
 authors:
 - Donnamay T. Brown
-- benedikt
-- anna
+- Benedikt Claus
+- Anna Könning
 - julia
 date: 2021-08-23T17:41:45+02:00
 doi: "https://doi.org/10.1093/jpepsy/jsab085"

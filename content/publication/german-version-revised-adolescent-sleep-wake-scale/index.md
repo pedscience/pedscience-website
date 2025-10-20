@@ -6,7 +6,7 @@ authors:
 - Ariane Sommer
 - Kamila Grochowska
 - Susanne Grothus
-- benedikt
+- Benedikt Claus
 - Lorin Stahlschmidt
 - julia
 

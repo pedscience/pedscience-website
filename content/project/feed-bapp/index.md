@@ -3,7 +3,7 @@
 
 title: "Feed-bApp – Einfluss unterschiedlich (kosten)-intensiver Feedback-Funktionen einer pädiatrischen Schmerz-App auf die Versorgungsqualität"
 summary: "Eine von den Forschenden entwickelte App unterstützt Kinder und ihre Eltern über verschieden intensive Feedback-Funktionen bei der Schmerzbewältigung im Alltag."
-authors: [dorothee, boris]
+authors: [Dorothee Meyer, boris]
 tags: []
 categories: []
 date: 2021-01-01T11:16:54+01:00

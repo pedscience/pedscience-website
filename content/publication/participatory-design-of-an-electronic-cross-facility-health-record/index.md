@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Participatory Design of an Electronic Cross-Facility Health Record (ECHR) System for Pediatric Palliative Care: A Think-Aloud Study"
-authors: [theresa, Chantal Jux, Sven Kernebeck, larissa, dorothee, Daniel Zenz, boris, Jan Peter Ehlers]
+authors: [Theresa Sophie Busse, Chantal Jux, Sven Kernebeck, larissa, Dorothee Meyer, Daniel Zenz, boris, Jan Peter Ehlers]
 date: 2021-09-24T10:26:10+01:00
 doi: "https://doi.org/10.3390/children8100839"
 

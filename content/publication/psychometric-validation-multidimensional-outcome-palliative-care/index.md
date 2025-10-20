@@ -5,7 +5,7 @@ title: "Development and psychometric validation of the family-centered multidime
 authors:
 - Sophie Pelke
 - julia
-- benedikt
+- Benedikt Claus
 - boris
 - Mandira Reuther
 date: 2020-12-18

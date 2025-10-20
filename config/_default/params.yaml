@@ -3,6 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# hopefully discarding the reading time:
+reading_time: false
+
 # Appearance
 
 appearance:
@@ -10,6 +13,7 @@ appearance:
   theme_night:
   font: native
   font_size: L
+
 
 # SEO
 
