@@ -41,7 +41,9 @@ abstract: "
 
 
 **Conclusion:** Patients experiencing severe chronic pain in childhood who engage in IIPT are likely to have recovered from their pain in early adulthood. Long-­term treatment effects may manifest in better coping strategies. However, reduced mental and physical health status may indicate a negative long-­term effect of early chronic pain experiences or a general vulnerability in people developing a chronic pain condition in childhood.
-Significance: The majority of severely impaired paediatric chronic pain patients no longer suffer from chronic pain seven years after intensive interdisciplinary pain treatment. However, former patients have worse physical and mental health status than a community sample, and continue to seek out more frequent health care utilisation, irrespective of whether or not they continue to experience chronic pain.
+
+
+**Significance:** The majority of severely impaired paediatric chronic pain patients no longer suffer from chronic pain seven years after intensive interdisciplinary pain treatment. However, former patients have worse physical and mental health status than a community sample, and continue to seek out more frequent health care utilisation, irrespective of whether or not they continue to experience chronic pain.
 "
 
 # Summary. An optional shortened abstract.

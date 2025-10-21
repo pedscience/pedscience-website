@@ -23,7 +23,7 @@ abstract: "
 **Objectives:** Chronic pain in children and adolescents (CPCA) is widespread with an increasing prevalence. It is associated with a decreased quality of life and an increased parental work loss. Accordingly, CPCA may pose a substantial economic burden for patients, health care payers, and society. Therefore, this systematic review aimed to synthesize (1) the results of existing cost-of-illness studies (COIs) for CPCA and (2) the evidence of economic evaluations (EEs) of interventions for CPCA.
 
 
-**Methods** The systematic literature search was conducted in EMBASE, MEDLINE, PsycINFO, NHS EED, and HTA Database until February 2023. Title, abstract, and full-text screening were conducted by 2 researchers. Original articles reporting costs related to CPCA published in English or German were included. Study characteristics, cost components, and costs were extracted. The quality of studies was assessed using standardized tools. All costs were adjusted to 2020 purchasing power parity US dollars (PPP-USD).
+**Methods:** The systematic literature search was conducted in EMBASE, MEDLINE, PsycINFO, NHS EED, and HTA Database until February 2023. Title, abstract, and full-text screening were conducted by 2 researchers. Original articles reporting costs related to CPCA published in English or German were included. Study characteristics, cost components, and costs were extracted. The quality of studies was assessed using standardized tools. All costs were adjusted to 2020 purchasing power parity US dollars (PPP-USD).
 
 
 **Results:** Fifteen COIs and 10 EEs were included. The mean annual direct costs of CPCA ranged from PPP-USD 603 to PPP-USD 16,271, with outpatient services accounting for the largest share. The mean annual indirect costs ranged from PPP-USD 92 to PPP-USD 12,721. All EEs reported a decrease in overall costs in treated patients.
@@ -35,7 +35,7 @@ abstract: "
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Chronic Pain, Pediatrics]
+tags: [Chronic Pain, Pediatrics, Children, Economic Evaluation, Cost-Of-Illness, Health Care]
 categories: []
 featured: false
 
