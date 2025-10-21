@@ -23,13 +23,13 @@ abstract: "
 **Background:** The transfer of epidemiological parameters, such as prevalence, between nations with limited data is a common but unstructured process. Determining how pediatric life-limiting condition (LLC) prevalence rates from one country can be applied to another country is unclear.
 
 
-**Objectives** This study introduces the Descriptive Framework for Assessing Epidemiological Cross-National Transferability (FACT), a five-step approach to systematically validate and execute the transfer of epidemiological prevalence estimates.
+**Objectives:** This study introduces the Descriptive Framework for Assessing Epidemiological Cross-National Transferability (FACT), a five-step approach to systematically validate and execute the transfer of epidemiological prevalence estimates.
 
 
-**Design** Using the established epidemiological work by Fraser et al., the framework was applied to determine LLC prevalences in Germany (the use case).
+**Design:** Using the established epidemiological work by Fraser et al., the framework was applied to determine LLC prevalences in Germany (the use case).
 
 
-**Measurements** Official population statistics from England and Germany were adjusted for gender and age. Results revealed that many comparative indicators were similar, deviating <2.5/5 percentage (points), supporting the transfer of English pediatric LLC prevalences to Germany.
+**Measurements:** Official population statistics from England and Germany were adjusted for gender and age. Results revealed that many comparative indicators were similar, deviating <2.5/5 percentage (points), supporting the transfer of English pediatric LLC prevalences to Germany.
 
 
 **Results:** The transfer resulted in an estimated number of 103,566 (65.30 per 10,000) German children and adolescents affected by life-shortening diseases in 2022, with projections between 107,934 and 138,817 by 2030.
@@ -41,7 +41,7 @@ abstract: "
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Palliative Care, Palliative Medicine, Pediatrics]
+tags: [Palliative Care, Palliative Medicine, Pediatrics, Children, Adolescents, Life-Limiting-Condition]
 categories: []
 featured: false
 

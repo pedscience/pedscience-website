@@ -23,7 +23,7 @@ abstract: "
 **Background:** Actigraphy offers a promising way to objectively assess pediatric sleep. Aim of the study was investigating the extent to which actigraphy used in children and adolescents with life-limiting conditions is consistent with two other measures of sleep diagnostics.
 
 
-**Methods** In this monocentric prospective study N = 26 children and adolescents with life-limiting conditions treated on a pediatric palliative care unit were assessed. For three consecutive nights they wore an actigraph; the 24-hours sleep protocol documented by nurses and the Sleep Screening for Children and Adolescents with Complex Chronic Conditions (SCAC) answered by parents were analyzed. Patient characteristics and the parameters sleep onset, sleep offset, wake after sleep onset (WASO), number of wake phases, total sleep time (TST) and sleep efficiency (SE) were descriptively examined. Percentage bend correlations evaluated the three measures’ concordance.
+**Methods:** In this monocentric prospective study N = 26 children and adolescents with life-limiting conditions treated on a pediatric palliative care unit were assessed. For three consecutive nights they wore an actigraph; the 24-hours sleep protocol documented by nurses and the Sleep Screening for Children and Adolescents with Complex Chronic Conditions (SCAC) answered by parents were analyzed. Patient characteristics and the parameters sleep onset, sleep offset, wake after sleep onset (WASO), number of wake phases, total sleep time (TST) and sleep efficiency (SE) were descriptively examined. Percentage bend correlations evaluated the three measures’ concordance.
 
 
 **Results:** Descriptively, and except for the number of waking episodes, the different measures’ estimations were comparable. Significant correlations existed between actigraphy and the sleep protocol for sleep onset (r = 0.83, p = < 0.001) and sleep offset (r = 0.89, p = < 0.001), between actigraphy and SCAC for SE (r = 0.59, p = 0.02).
@@ -35,7 +35,7 @@ abstract: "
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Palliative Care, Palliative Medicine, Pediatrics]
+tags: [Chronic Disease, Palliative Care, Actigraphy, Palliative Medicine, Pediatrics,  Diagnostic, Diagnostic Techniques,  Diagnostic Procedures, Sleep]
 categories: []
 featured: false
 

@@ -35,7 +35,7 @@ abstract: "
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Pediatrics]
+tags: [Pediatrics, Children, Adolescents, Chronic Pain, Health Care]
 categories: []
 featured: false
 

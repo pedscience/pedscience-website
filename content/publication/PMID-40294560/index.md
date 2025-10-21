@@ -39,7 +39,7 @@ Further research is required to investigate the long-term impact of educational 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Pediatrics, Pediatric Palliative Care, Palliative Care]
+tags: [Pediatrics, Pediatric Palliative Care, Palliative Care, Communication]
 categories: []
 featured: false
 
