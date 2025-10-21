@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Stellenanzeigen
 
 # Listing view
 view: compact

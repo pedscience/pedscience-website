@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Economic long-term effects of intensive interdisciplinary pain treatment in paediatric patients with severe chronic pain: Analysis of claims data"
-authors: [susanne, Ann-Kristin Ruhe, Ingo Pfenning, julia, boris]
+authors: [Susanne Grothus, Ann-Kristin Ruhe, Ingo Pfenning, julia, boris]
 date: 2021-06-22T13:20:15+01:00
 doi: "https://doi.org/10.1002/ejp.1825"
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Validation of the FACETS-OF-PPC as an Outcome Measure for Children with Severe Neurological Impairment and Their Families—A Multicenter Prospective Longitudinal Study"
-authors: [Sophie Pelke, julia, benedikt, Kathrin Stening, boris, Mandira Reuther]
+authors: [Sophie Pelke, julia, Benedikt Claus, Kathrin Stening, boris, Mandira Reuther]
 date: 2021-10-11T17:03:05+02:00
 doi: "https://doi.org/10.3390/children8100905"
 

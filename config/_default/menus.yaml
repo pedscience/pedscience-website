@@ -7,9 +7,9 @@ main:
   # - name: Stellenanzeige
   #  url: stellenanzeige.pdf
   #  weight: 10
-  # - name: Neuigkeiten
-  #   url: post
-  #   weight: 20
+  - name: Stellenanzeigen
+    url: post
+    weight: 20
   - name: Team
     url: people
     weight: 30

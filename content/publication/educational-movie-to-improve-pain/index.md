@@ -4,7 +4,7 @@
 title: "The efficacy of an educational movie to improve pain and dysfunctional behavior in school children: A randomized controlled trial"
 authors:
 - Sarah Kisling
-- benedikt
+- Benedikt Claus
 - Lorin Stahlschmidt
 - julia
 date: 2021-05-17T11:48:42+02:00

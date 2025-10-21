@@ -5,7 +5,7 @@ title: "Evaluation des Kompetenzzentrums Kinderschutz im Gesundheitswesen NRW"
 summary: "
 Um die professionellen AkteurInnen im Gesundheitswesen zu unterstützen, weiterzubilden und ihnen Handlungsoptionen aufzuzeigen, wurde im Rahmen einer Ausschreibung des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalens (MAGS) das Kompetenzzentrum für Kinderschutz im Gesundheitswesen (KKG) ins Leben gerufen.
 "
-authors: [benedikt]
+authors: [Benedikt Claus]
 tags: []
 categories: [Kinderschutz]
 date: 2021-10-21T12:38:31+02:00

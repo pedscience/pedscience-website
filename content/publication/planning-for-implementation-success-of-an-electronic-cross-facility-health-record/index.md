@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Planning for Implementation Success of an Electronic Cross-Facility Health Record for Pediatric Palliative Care Using the Consolidated Framework for Implementation Research (CFIR)"
-authors: [theresa, Sven Kernebeck, larissa, dorothee, Daniel Zenz, Peter Haas, boris, Jan Peter Ehlers]
+authors: [Theresa Sophie Busse, Sven Kernebeck, larissa, Dorothee Meyer, Daniel Zenz, Peter Haas, boris, Jan Peter Ehlers]
 date: 2022-01-01T10:30:52+01:00
 doi: ""
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Participatory Design of a Medication Module in an Electronic Medical Record for Paediatric Palliative Care: A Think-Aloud Approach with Nurses and Physicians"
-authors: [Sven Kernebeck, Chantal Jux, theresa, dorothee, larissa, Daniel Zenz, boris, Jan Peter Ehlers]
+authors: [Sven Kernebeck, Chantal Jux, Theresa Sophie Busse, Dorothee Meyer, larissa, Daniel Zenz, boris, Jan Peter Ehlers]
 date: 2022-01-06T10:35:40+01:00
 doi: ""
 

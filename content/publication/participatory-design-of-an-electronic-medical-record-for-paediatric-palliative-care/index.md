@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Participatory Design of an Electronic Medical Record for Paediatric Palliative Care: A Think-Aloud Study with Nurses and Physicians"
-authors: [Sven Kernebeck, theresa, Chantal Jux, dorothee, larissa, Daniel Zenz, boris, Jan Peter Ehlers]
+authors: [Sven Kernebeck, Theresa Sophie Busse, Chantal Jux, Dorothee Meyer, larissa, Daniel Zenz, boris, Jan Peter Ehlers]
 date: 2021-08-12T10:20:42+01:00
 doi: ""
 
